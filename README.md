@@ -1,8 +1,13 @@
-# React + Vite
+# AniFlare
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+AniFlare is an anime streaming site built with React.js and styled using Tailwind CSS.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Extensive anime library
+- User-friendly interface
+
+## Technologies Used
+
+- React.js
+- Tailwind CSS
